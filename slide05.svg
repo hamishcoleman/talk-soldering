@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="210mm"
-   viewBox="0 0 297 210"
+   width="239.81625mm"
+   height="198.55156mm"
+   viewBox="0 0 239.81625 198.55156"
    version="1.1"
    id="svg847"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -315,9 +315,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.096131"
-     inkscape:cx="561.25984"
-     inkscape:cy="396.85039"
+     inkscape:zoom="0.98973765"
+     inkscape:cx="456.53456"
+     inkscape:cy="378.70718"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -327,24 +327,28 @@
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <sodipodi:guide
-       position="26.775574,206.60929"
+       position="-0.93299106,201.80889"
        orientation="1,0"
        id="guide1352"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="25.138103,204.69979"
+       position="-2.570462,199.89939"
        orientation="0,1"
        id="guide1354"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="269.2972,4.8004017"
+       position="241.58863,9.4555743e-06"
        orientation="0,1"
        id="guide1356"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="268.22511,3.7069768"
+       position="240.51654,-1.0934154"
        orientation="1,0"
        id="guide1358"
        inkscape:locked="false" />
@@ -365,23 +369,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-87)">
+     transform="translate(-27.708565,-93.648045)">
     <path
-       d="M 27.708565,292.19959 H 267.52481 V 93.648045 H 27.708565 Z"
-       style="fill:#fffefe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91414976"
+       d="M 42.0074,281.89269 H 253.04365 V 107.16902 H 42.0074 Z"
+       style="fill:#fffefe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80444396"
        id="path132"
        inkscape:connector-curvature="0" />
     <g
-       id="g134"
-       transform="matrix(0.91414983,0,0,0.91414983,-224.28778,-119.71543)">
-      <path
-         d="M 275.662,233.401 H 538 V 450.599 H 275.662 Z"
-         style="fill:none;stroke:#020000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path136"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(0.91414983,0,0,-0.91414983,-257.19719,571.38188)"
+       transform="matrix(0.80444404,0,0,-0.80444404,-208.70722,527.57071)"
        id="g138">
       <g
          id="g140"
@@ -404,16 +399,7 @@
       </g>
     </g>
     <g
-       id="g164"
-       transform="matrix(0.91414983,0,0,0.91414983,-224.28778,-119.71543)">
-      <path
-         d="M 275.662,233.401 H 538 V 450.599 H 275.662 Z"
-         style="fill:none;stroke:#020000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path166"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="matrix(0.91414983,0,0,-0.91414983,-257.19719,571.38188)"
+       transform="matrix(0.80444404,0,0,-0.80444404,-208.70722,527.57071)"
        id="g536">
       <g
          id="g538"
@@ -441,7 +427,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.91414983,0,0,-0.91414983,-257.19719,571.38188)"
+       transform="matrix(0.80444404,0,0,-0.80444404,-208.70722,527.57071)"
        id="g552">
       <g
          id="g554"
@@ -474,7 +460,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.91414983,0,0,-0.91414983,-257.19719,571.38188)"
+       transform="matrix(0.80444404,0,0,-0.80444404,-208.70722,527.57071)"
        id="g570">
       <g
          id="g572"
@@ -507,7 +493,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.91414983,0,0,-0.91414983,-257.19719,571.38188)"
+       transform="matrix(0.80444404,0,0,-0.80444404,-208.70722,527.57071)"
        id="g588">
       <g
          id="g590"
